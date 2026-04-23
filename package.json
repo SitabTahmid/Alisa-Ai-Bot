@@ -1,7 +1,7 @@
 {
   "name": "alisa-ai-bot",
   "version": "1.0.0",
-  "description": "Discord AI Bot with OpenAI + Express",
+  "description": "Alisa AI Discord Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,6 +14,7 @@
     "discord.js": "^14.26.3",
     "dotenv": "^17.4.2",
     "openai": "^6.34.0",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "lowdb": "^7.0.1"
   }
 }
